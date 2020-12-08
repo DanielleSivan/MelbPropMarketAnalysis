@@ -5,4 +5,4 @@ I analysed data about Melbourne's property market. The data includes more than 9
 
 Top 15 sales suburbs dashboard - the colors in the map visualise the change in the price of a house with 3 bedrooms (the most popular product). Furthermore, the user can drill down by click on the suburb name and the property type to see the distribution of the sales by property type and bedrooms. Again, the user can see a chart about the average / median price for a house with 3 bedrooms for that suburb.
 
-The insights dashboard describes the insights for the top 15 sales suburbs dashboard. By using bookmarks, the user can click on the info buttons + ctrl, which leads him to the specific dashboard with the relevant information as described in the insights.
+The notes dashboard describes the insights for the top 15 sales suburbs dashboard. By using bookmarks, the user can click on the info buttons + ctrl, which leads him to the specific dashboard with the relevant information as described in the insights.
